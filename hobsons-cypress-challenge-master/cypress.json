@@ -1,0 +1,10 @@
+{
+    "video": false,
+    "defaultCommandTimeOut": 5000,
+    "ignoreTestFiles": ["*.md"],
+    "chromeWebSecurity": false,
+    "waitForAnimation": true,
+    "baseUrl": "http://hobsons.com",
+    "viewPortWidth": "1000",
+    "viewPortHeight": "600"
+}

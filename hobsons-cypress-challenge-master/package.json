@@ -1,0 +1,22 @@
+{
+  "name": "hobsons-cypress-challenge",
+  "version": "1.0.0",
+  "description": "Hobsons QA Engineer Cypress challenge",
+  "main": "",
+  "scripts": {
+    "start": "cypress open",
+    "run": "cypress run"
+  },
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "^2.5.4",
+    "cypress-xpath": "^1.6.0",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "csvdata": "^1.7.0",
+    "cypress": "^4.11.0"
+  },
+  "cypress-cucmber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

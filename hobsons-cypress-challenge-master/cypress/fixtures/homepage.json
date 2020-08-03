@@ -1,0 +1,9 @@
+{
+    "homeBannerTitle": ".banner-home__title",
+    "IntersectBanner": ".banner-home__cards-container a:nth-of-type(2)",
+    "IntersectBannerLearnMore": ".banner-home__cards-container a:nth-of-type(2) div[class='card-home-banner__lower'] span[class='card-home-banner__button']",
+    "IntersectLink": ".banner-home__cards-container a:nth-of-type(2)",
+    "USMapDetails": ".block-stats-map__map",
+    "appDomain": "hobsons.com",
+    "applicationTitle": "Education Advances | Hobsons"
+}
