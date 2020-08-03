@@ -6,4 +6,4 @@ Install:
 Running the Tests:
 >npm run start
 
->The test data failure log is present in the root as "faillog_<timestamp>.txt" file
+>The test data failure log is present in the root as "faillog_timeStamp.txt" file
